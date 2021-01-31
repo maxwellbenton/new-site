@@ -3,71 +3,71 @@
   "experience": [
     {
       "title": "Senior Curriculum Manager",
-      dates: ["01/2021", "Present"],
+      "dates": ["01/2021", "Present"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Software Engineer",
-      dates: ["05/2020", "01/2021"],
+      "dates": ["05/2020", "01/2021"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Senior Curriculum Designer",
-        dates: ["04/2019", "05/2020"],
+      "dates": ["04/2019", "05/2020"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}, 
-        {title: "WeWork", url: "https://www.wework.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
+        {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Senior Curriculum Writer",
-      dates: ["07/2018", "04/2019"],
+      "dates": ["07/2018", "04/2019"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}, 
-        {title: "WeWork", url: "https://www.wework.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
+        {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Curriculum Writer",
-      dates: ["03/2018","07/2018"],
+      "dates": ["03/2018","07/2018"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}, 
-        {title: "WeWork", url: "https://www.wework.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
+        {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      responsibilities: ["response"]
+      "responsibilities": ["response"]
     },
     {
       "title": "Junior Instructor",
-      dates: ["08/2017", "03/2018"],
+      "dates": ["08/2017", "03/2018"],
       "companies": [
-        {title: "Flatiron School", url: "https://flatironschool.com/"}, 
-        {title: "WeWork", url: "https://www.wework.com/"}
+        {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
+        {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Customer Service Associate Coordindator",
-      dates: ["09/2015","01/2017"],
+      "dates": ["09/2015","01/2017"],
       "companies": [
-        {title: "Whole Foods", url: "https://wholefoods.com/"}
+        {"title": "Whole Foods", "url": "https://wholefoods.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     },
     {
       "title": "Customer Service Team Leader",
-      dates: ["07/2014","09/2015"],
+      "dates": ["07/2014","09/2015"],
       "companies": [
-        {title: "Whole Foods", url: "https://wholefoods.com/"}
+        {"title": "Whole Foods", "url": "https://wholefoods.com/"}
       ],
-      responsibilities: []
+      "responsibilities": []
     }
   ]
 }
