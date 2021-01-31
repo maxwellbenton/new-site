@@ -24,7 +24,13 @@
         {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
         {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      "responsibilities": []
+      "responsibilities": [
+        "Led team projects to update and redesign course materials on both Ruby and React, deployed to hundreds of students",
+        "Performed maintenance operations on one of GitHub’s largest organizations",
+        "Brought an existing 1500+ GitHub issue count to 0",
+        "Improved existing repository linter for maintaining standards across over 1000 repositories",
+        "Implemented operating procedures for rolling out Curriculum content"
+      ]
     },
     {
       "title": "Senior Curriculum Writer",
@@ -33,7 +39,11 @@
         {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
         {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      "responsibilities": []
+      "responsibilities": [
+        "Built Ruby gems to assist in GitHub repository creation and management, improving the consistency and efficiency of repository creation by the Curriculum team",
+        "Created, maintained and updated test driven student materials using RSpec for Ruby and Mocha/Chai for JS testing",
+        "Managed internal feedback, priority issue tracking and communication with stakeholders through JIRA"
+      ]
     },
     {
       "title": "Curriculum Writer",
@@ -42,7 +52,11 @@
         {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
         {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      "responsibilities": ["response"]
+      "responsibilities": [
+        "Maintained Curriculum through GitHub repositories, resolving critical issues",
+        "Created student lessons and assessments for Ruby, Rails, JavaScript and React",
+        "Redesigned materials and approach for teaching React/Redux"
+      ]
     },
     {
       "title": "Junior Instructor",
@@ -51,7 +65,11 @@
         {"title": "Flatiron School", "url": "https://flatironschool.com/"}, 
         {"title": "WeWork", "url": "https://www.wework.com/"}
       ],
-      "responsibilities": []
+      "responsibilities": [
+        "Taught students in all areas of coursework, including Ruby, Rails, JavaScript, React and Redux",
+        "Conducted technical lectures, reviews and community projects",
+        "Provided feedback on code and tutoring for students"
+      ]
     },
     {
       "title": "Customer Service Associate Coordindator",
@@ -59,7 +77,12 @@
       "companies": [
         {"title": "Whole Foods", "url": "https://wholefoods.com/"}
       ],
-      "responsibilities": []
+      "responsibilities": [
+        "Directly oversaw CS team operations in thirteen stores, conducted audits, as well as, leadership training and reviews",
+        "Responsible for cash office operations in thirty-five stores, maintaining standards and introducing operational efficiencies",
+        "Conducted regular meetings of 40-80 leaders, hosted conference calls, leadership interviews, and general support as needed",
+        "Maintained and advanced the overall Customer Service program for the region (New York, New Jersey, Connecticut)"
+      ]
     },
     {
       "title": "Customer Service Team Leader",
@@ -67,7 +90,10 @@
       "companies": [
         {"title": "Whole Foods", "url": "https://wholefoods.com/"}
       ],
-      "responsibilities": []
+      "responsibilities": [
+        "Led a team of fifty-five Team Members, seven Supervisors and two Associate Team Leaders",
+        "Responsible for all operations, including hiring, terminations, corrective conversations, reviews, interviews and daily tasks"
+      ]
     }
   ]
 }
