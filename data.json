@@ -1,5 +1,5 @@
 {
-  "intro": "Hello! My name is Maxwell, and I am a software engineer. I currently work as the Senior Curriculum Manager of Software Engineering at <a target="_blank" rel="noopener noreferrer" href="https://flatironschool.com/">Flatiron School</a>. I design and create coursework for students online and on campuses across the United States.",
+  "intro": "Hello! My name is Maxwell, and I am a software engineer. I currently work as the Senior Curriculum Manager of Software Engineering at <a target='_blank' rel='noopener noreferrer' href='https://flatironschool.com/'>Flatiron School</a>. I design and create coursework for students online and on campuses across the United States.",
   "experience": [
     {
       "title": "Senior Curriculum Manager",
